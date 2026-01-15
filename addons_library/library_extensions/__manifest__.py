@@ -2,7 +2,7 @@
 {
     "name": "Library Extension",
     "depends": [
-        "library"
+        "base","library"
     ],
     "author": "Karl Apolonio",
     "summary": """Library Extension""",
