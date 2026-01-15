@@ -9,7 +9,11 @@
     "description": """
         Library Extension
     """,
-    "data": [],
+    "data": [
+        "security/ir.model.access.csv",
+        "views/library_book_views.xml",
+        "views/library_book_category_views.xml",
+    ],
     "installable": True,
     "application": False,
 }
